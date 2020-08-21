@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HackerrankPractice.DownToZeroII</StartupObject>
+    <StartupObject>HackerrankPractice.LargestRectangle</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,6 +56,7 @@
     <Compile Include="GridChallenge.cs" />
     <Compile Include="JesseandCookies.cs" />
     <Compile Include="kaprekarproblem.cs" />
+    <Compile Include="LargestRectangle.cs" />
     <Compile Include="LongestCommonEnd.cs" />
     <Compile Include="MaximumElement.cs" />
     <Compile Include="MergeSort.cs" />
