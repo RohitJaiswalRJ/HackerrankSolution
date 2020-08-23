@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HackerrankPractice.LargestRectangle</StartupObject>
+    <StartupObject>HackerrankPractice.OrganisingContainersOfBalls</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Compile Include="MaximumElement.cs" />
     <Compile Include="MergeSort.cs" />
     <Compile Include="MergingCommunities.cs" />
+    <Compile Include="OrganisingContainersOfBalls.cs" />
     <Compile Include="PalindromicSubsets.cs" />
     <Compile Include="QuickSort.cs" />
     <Compile Include="RepeatedString.cs" />
