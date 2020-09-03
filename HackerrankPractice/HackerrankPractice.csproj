@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HackerrankPractice.Strange_Code</StartupObject>
+    <StartupObject>HackerrankPractice.Two_Characters</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -79,6 +79,7 @@
     <Compile Include="Solution7.cs" />
     <Compile Include="Strange-Code.cs" />
     <Compile Include="SwapNodes.cs" />
+    <Compile Include="Two-Characters.cs" />
     <Compile Include="Wall.cs" />
   </ItemGroup>
   <ItemGroup>
