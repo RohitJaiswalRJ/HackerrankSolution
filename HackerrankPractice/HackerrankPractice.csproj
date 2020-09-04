@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HackerrankPractice.AbsolutePermutation</StartupObject>
+    <StartupObject>HackerrankPractice.SherlockAndAnagrams</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -69,6 +69,7 @@
     <Compile Include="QuickSort.cs" />
     <Compile Include="RepeatedString.cs" />
     <Compile Include="SeparateTheNumbers.cs" />
+    <Compile Include="SherlockAndAnagrams.cs" />
     <Compile Include="SinglyLinkedListNodeInsertion.cs" />
     <Compile Include="Solution8.cs" />
     <Compile Include="Solution.cs" />
