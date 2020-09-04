@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HackerrankPractice.Two_Characters</StartupObject>
+    <StartupObject>HackerrankPractice.SeparateTheNumbers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,7 @@
     <Compile Include="PalindromicSubsets.cs" />
     <Compile Include="QuickSort.cs" />
     <Compile Include="RepeatedString.cs" />
+    <Compile Include="SeparateTheNumbers.cs" />
     <Compile Include="SinglyLinkedListNodeInsertion.cs" />
     <Compile Include="Solution8.cs" />
     <Compile Include="Solution.cs" />
