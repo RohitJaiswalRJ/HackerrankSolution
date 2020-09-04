@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HackerrankPractice.SeparateTheNumbers</StartupObject>
+    <StartupObject>HackerrankPractice.AbsolutePermutation</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbsolutePermutation.cs" />
     <Compile Include="BigSorting.cs" />
     <Compile Include="BinarySearchTree.cs" />
     <Compile Include="Candies.cs" />
